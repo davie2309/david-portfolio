@@ -1,0 +1,47 @@
+body {
+    background-color:#F9FBE7;
+  }
+h1{
+    color: #f5908e;
+}
+h2{
+    color: #F29727;
+}
+ul{
+    color: #F24C3D;
+}
+h3{
+    color: #DD58D6;
+}
+h5{
+    color: #f5908e;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+div.container {
+    text-align: center;
+  }
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  h5{
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+  }
